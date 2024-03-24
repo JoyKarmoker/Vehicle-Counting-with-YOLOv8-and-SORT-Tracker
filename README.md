@@ -72,5 +72,3 @@ https://github.com/JoyKarmoker/YOLOv8-Vehicle-Counting-System-Real-Time-Tracking
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a comprehensive guide to the project, including installation instructions, usage guidelines, customization options, a demo video, credits to contributors, and licensing information. Feel free to explore the code and contribute to further enhancements!
