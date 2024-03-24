@@ -52,9 +52,13 @@ In this project, we combine the power of two state-of-the-art algorithms:
 - Adjust the confidence threshold (`conf > 0.3`) in the code to modify the sensitivity of vehicle detection.
 - Modify the region limits (`limits`) to define a specific area for vehicle counting.
 
-## Demo
+## Ouput
 
-Check out the demo video [here](output_video.mp4) to see the vehicle counting system in action!
+Check out the demo video to see the vehicle counting system in action!
+
+
+https://github.com/JoyKarmoker/YOLOv8-Vehicle-Counting-System-Real-Time-Tracking-and-Counting-of-Vehicles-in-Videos/assets/48152122/18762e2c-0b86-4810-adf0-e6c94c0344fd
+
 
 ## Credits
 
